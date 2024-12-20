@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.log
+*.pot
+*.pyc
+*.sqlite3
+
+*/migrations/*.py
+*/migrations/*.pyc
+
+*.sqlite3
